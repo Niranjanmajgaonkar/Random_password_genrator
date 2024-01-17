@@ -1,0 +1,73 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: bisque;
+
+}
+#titel{
+    font-size: 35px;
+}
+
+ .innerindiv{
+  background-color: antiquewhite;
+font-size: 20px; 
+
+}
+
+#btn{
+    border: 2px solid black;
+    padding: 1px;
+    margin-top: 3vh;
+    margin-left: 10vw;
+    font-weight: bold;
+    font-size: 21px;
+   background-color: wheat;
+    border-radius: 6px
+    
+}
+
+#btn:hover{
+   background-color: azure;
+
+   color: red;
+   cursor: pointer;
+   
+}
+
+#text{
+    margin-top: -3px;
+    font-size: 28px;
+}
+#inputbox{
+    padding-top: 7px;
+    margin-top: 16px;
+    border: 3px solid;
+    margin-left: 3px;
+    font-weight: bold;
+    font-size: 3vh;
+}
+.firstdiv{
+    border: 2px solid black;
+    margin-top: 22vh;
+    margin-right: 35vw;
+    margin-left: 25vh;
+   
+}
+
+.innerdiv{
+margin-left: 3vw;
+}
+.ans{
+    border: 2px solid black;
+    
+    margin-right: 35vw;
+    margin-left: 12vw;
+    margin-top: 4vh;
+    background-color:azure;
+}
+.firstdiv{
+    background-color:azure;
+}
+#titel{
+    padding-top: 10px;
+}
